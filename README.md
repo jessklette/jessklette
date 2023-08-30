@@ -28,7 +28,7 @@
   <li><a href="https://jesscancode.hashnode.dev/what-in-the-html-a-beginners-guide-to-markup-and-html"><b>🔧 What in the HTML?</b></a><br/><i>A Beginners Guide to Markup and HTML</i></li>
 </ul>
 
-<h3>Some fun facts about Me </h3>
+## ❓ Some fun facts about Me
 
 - 🧞 I'm a little obsessed with Metabolic Health and currently following [these experts](https://www.metabolicmonthly.com/the-metabolic-health-experts/).
 - 🔭 I’m currently learning about and experimenting with CGM technology.
@@ -37,6 +37,11 @@
 - 🔥 Fun fact: I love making Neapolitan pizza.
 - 🐕 I love going on adventures with my dog, Forrest.
 <br>
+
+## ⚒️ Current Projects
+🐕 [SideKick Health Coach](https://www.figma.com/file/7Q0UoNqlK7z18XHGQQAogB/SideKick-Health-Coach): An original app idea that I am building as part of a Front-End and Software Development Bootcamp that I started in 2023. Follow along as I learn and build in public. 
+
+🥗[Metabolic Monthly](https://www.metabolicmonthly.com/): Actionable metabolic health and weight loss insights for regular people. 
 
 ---
 <h2>📔 GitHub Stats:</h2>
