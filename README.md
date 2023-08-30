@@ -28,13 +28,14 @@
   <li><a href="https://jesscancode.hashnode.dev/what-in-the-html-a-beginners-guide-to-markup-and-html"><b>🔧 What in the HTML?</b></a><br/><i>A Beginners Guide to Markup and HTML</i></li>
 </ul>
 
-<h3>Some facts about Me </h3>
+<h3>Some fun facts about Me </h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
+- 🧞 I'm a little obsessed with Metabolic Health and currently following [these experts](https://www.metabolicmonthly.com/the-metabolic-health-experts/).
 - 🔭 I’m currently learning about and experimenting with CGM technology.
 - 👯 I’m looking to collaborate on digital health projects.
 - 💡 Contributing to Open Source Projects in Diabetes Technology.
 - 🔥 Fun fact: I love making Neapolitan pizza.
+- 🐕 I love going on adventures with my dog, Forrest.
 <br>
 
 ---
