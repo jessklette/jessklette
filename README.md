@@ -28,19 +28,17 @@
   <li><a href="https://jesscancode.hashnode.dev/what-in-the-html-a-beginners-guide-to-markup-and-html"><b>🔧 What in the HTML?</b></a><br/><i>A Beginners Guide to Markup and HTML</i></li>
 </ul>
 
-<h3>Little facts about Me Template</h3>
+<h3>Some facts about Me </h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- 🔭 I’m currently learning about and experimenting with CGM technology.
+- 👯 I’m looking to collaborate on digital health projects.
+- 💡 Contributing to Open Source Projects in Diabetes Technology.
+- 🔥 Fun fact: I love making Neapolitan pizza.
 <br>
 
 ---
-<summary>
- 📔 GitHub Stats:
-</summary>
+<h2>📔 GitHub Stats:</h2>
 <br>
 <p align="center">
   <a href="https://github.com/jessklette">
