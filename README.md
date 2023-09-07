@@ -1,10 +1,29 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jess Klette</h1>
-<p align="center">
-  <a href="https://github.com/jessklette/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Product+Manager;Front+End+Developer;Social+Worker&center=true&width=500&height=50"></a>
-</p>
+<table>
+<tr>
+<td>
 
-<h1>Hey! Nice to see you.  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<p>Hi 👋 <b>I'm Jess</b>, product manager, software developer, and social worker from 🏔️ <b>Mthatha, South Africa</b>, living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909408.png" width="13"/> <b>Cape Town</b>. Currently focusing on improving accessibility in <b>Software Development education</b> and <b>creating employment opportunities</b> in the tech industry 🚀 Always thinking about and <b>building innovative solutions</b> to the <b>mental health</b> and <b>metabolic health crisis.</b> 🧠🥗🏋🏼‍♀️</p>
+![Profile Photo](https://blueprintway.com/wp-content/uploads/2020/09/Vanetta-Morrison-Profile-square-image.jpeg)
+
+</td>
+<td>
+
+# Name Surname
+### Job Title
+I am a highly motivated and detail-oriented new developer with a passion for coding and problem-solving. I recently completed a rigorous coding bootcamp, where I gained hands-on experience in various programming languages and technologies, including Python, JavaScript, HTML/CSS, and SQL.
+
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+123 456 7890**
+
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](mailto:example@example.com)
+
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com)
+
+</td>
+</tr>
+</table>
+
+
+<p>Hi 👋 <b>I'm [Your Name]</b>, [Job Title 1], [Job Title 2], and [Additional Profession] from 🏔️ <b>[Hometown/City, Country]</b>, living in <img src="[Link to Icon/Image]" width="13"/> <b>[Current City]</b>. Currently focusing on <b>[Your Current Focus or Project 1]</b> and <b>[Your Current Focus or Project 2]</b> in [Industry or Area]. Always thinking about and <b>building innovative solutions</b> to the <b>[Challenge or Issue 1]</b> and <b>[Challenge or Issue 2]</b>.</p>
+
 
 ## 👾 Technologies
 
@@ -21,6 +40,33 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
 
+
+# Work Experience 
+## 2023
+### XYZ Software Solutions - Junior Developer (Month Year - Month Year)
+
+1. **Developed and Maintained Applications**  
+   - Collaborated with a team of [Number, e.g., "5"] developers to design, develop, and maintain [Type of Application, e.g., "web applications"] using [Programming Language/Technology, e.g., "Python and Django"].
+   - Successfully implemented features and resolved bugs, resulting in a [Specific Achievement, e.g., "20% increase in user engagement"].
+
+2. **API Integration and Optimization**  
+   - Integrated [Number, e.g., "3"] third-party APIs, including [Specific API Names, e.g., "Stripe for payment processing and Google Maps for location services"], enhancing application functionality.
+   - Optimized API calls to improve application performance and reduce loading times by [Percentage, e.g., "15%"].
+
+3. **Database Design and Management**  
+   - Designed and managed relational databases using [Database Technology, e.g., "PostgreSQL"], ensuring data integrity and optimizing queries for efficient data retrieval.
+   - Collaborated with backend team to establish database schemas, relationships, and normalization techniques, ensuring scalability and ease of future modifications.
+
+## 2022
+### Web Development Intern at XYZ Company
+
+- Assisted the development team in designing and implementing responsive web applications using technologies such as HTML, CSS, and JavaScript.
+- Collaborated with UX/UI designers to enhance the user experience and ensure web designs were implemented accurately and efficiently.
+- Conducted regular code reviews and debugging sessions, resulting in a 15% reduction in site load time and a 10% increase in overall site performance.  
+
+- Assisted in designing and developing responsive web pages using HTML, CSS, and JavaScript.
+- Collaborated with a team of five developers to implement new features for the company's main website, resulting in a 15% increase in user engagement.
+- Debugged and optimized existing codebase, improving page load times by 20%.
 
 ## ✍️ My Latest Posts
 <ul>
