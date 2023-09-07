@@ -68,6 +68,21 @@ I am a highly motivated and detail-oriented new developer with a passion for cod
 - Collaborated with a team of five developers to implement new features for the company's main website, resulting in a 15% increase in user engagement.
 - Debugged and optimized existing codebase, improving page load times by 20%.
 
+# Education
+
+### Bachelor of Science in Computer Science
+**XYZ University, Anytown**  
+*Graduated: May 2022*  
+- Received Dean's List honors for three consecutive years.
+- Active member of the university's coding club and participated in multiple hackathons.
+
+### Associate of Science in Web Development
+**ABC Community College, Someplace**  
+*Graduated: May 2020*  
+- Completed comprehensive coursework in HTML, CSS, and JavaScript.
+- Collaborated on a team project to develop a responsive website for a local business.
+
+
 ## ✍️ My Latest Posts
 <ul>
   <li><a href="https://www.metabolicmonthly.com/could-digital-health-interventions-like-holly-health-help-solve-the-metabolic-crisis/"><b>Could digital health coach interventions like Holly Health help solve the metabolic health crisis?</b></a><br/><i>The power of personal health coaching and the hope for digital health interventions</i></li>
