@@ -73,6 +73,8 @@ I am a highly motivated and detail-oriented new developer with a passion for cod
   <a href="https://twitter.com/username">
     <img align="left" alt="Name Surname | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jessklette)](https://github.com/jessklette/github-profile-trophy)
    <a href="https://github.com/username">
     <img align="left" alt= "Name Surname | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
