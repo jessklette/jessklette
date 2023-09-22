@@ -1,10 +1,6 @@
 <table>
 <tr>
-<td>
 
-![Profile Photo](https://blueprintway.com/wp-content/uploads/2020/09/Vanetta-Morrison-Profile-square-image.jpeg)
-
-</td>
 <td>
 
 # Name Surname
