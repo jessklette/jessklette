@@ -1,9 +1,6 @@
 <table>
 <tr>
 
-<td>
-
-# Name Surname
 ### Job Title
 I am a highly motivated and detail-oriented new developer with a passion for coding and problem-solving. I recently completed a rigorous coding bootcamp, where I gained hands-on experience in various programming languages and technologies, including Python, JavaScript, HTML/CSS, and SQL.
 
